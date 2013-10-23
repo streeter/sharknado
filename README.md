@@ -15,6 +15,12 @@ To install in HipChat, head to the [HipChat emoticon admin section][hipchat] and
 
 I have no idea if this works in [Campfire][campfire]. RTFM.
 
+
+Contributors
+------------
+
+See the [contributors](https://github.com/streeter/sharknado/graphs/contributors) graph on GitHub.
+
 License
 -------
 
